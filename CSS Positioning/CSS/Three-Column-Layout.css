@@ -1,0 +1,11 @@
+body{
+	color:#665544;
+	font-family:sans-serif;
+}
+div.first{
+	width:19%;
+	margin:0 0.3cm;
+}
+div.row{
+	display:flex;
+}

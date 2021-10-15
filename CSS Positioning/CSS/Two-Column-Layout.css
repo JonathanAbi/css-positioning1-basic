@@ -1,0 +1,12 @@
+body{
+	color:#665544;
+	font-family:sans-serif;
+}
+div.first{
+	width:50%;
+	padding:5px 0.5cm 0.5cm 10px;
+	float:left;
+}
+div.second{
+	float:left;
+}

@@ -1,0 +1,14 @@
+body{
+	color:#665544;
+	font-family:sans-serif;
+	width:60%;
+}
+div.quotes{
+	float:right;
+	width:7cm;
+	font-style:italic;
+	font-family:serif;
+	font-size:23px;
+	padding-left:0.5cm;
+	border-bottom:thin solid #665544;
+}
